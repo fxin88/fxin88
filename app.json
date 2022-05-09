@@ -1,10 +1,10 @@
 {
     "name": "2022",
     "description": "Deploy 2022 on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["2022"],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
+            "description": "2022 UUID",
             "value": "51bf5633-edb9-4132-849d-6c3cae399b0f"
         }
     },
